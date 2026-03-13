@@ -286,6 +286,7 @@ Thank you for considering my application. I'm excited about the possibility of c
 - Email: goodnessmbakara@gmail.com
 - Twitter/X: [@goodnesmbakara](https://twitter.com/goodnesmbakara)
 - Telegram: @goodnessonweb3
+- Discord: @goodnessmbakara
 - LinkedIn: [linkedin.com/in/goodnessmbakara](https://linkedin.com/in/goodnessmbakara)
 
 **Supporting Materials:**

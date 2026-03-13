@@ -84,10 +84,11 @@ Nigeria represents a critical growth market for Layer 2 solutions:
 
 ## Contact
 
-- 📧 Email: [Your email]
-- 🐦 Twitter/X: [Your handle]
-- 💬 Discord: [Your Discord]
-- 📱 Telegram: [Your Telegram]
+- 📧 Email: goodnessmbakara@gmail.com
+- 🐦 Twitter/X: [@goodnesmbakara](https://twitter.com/goodnesmbakara)
+- 💬 Discord: @goodnessmbakara
+- 📱 Telegram: @goodnessonweb3
+- 💼 LinkedIn: [linkedin.com/in/goodnessmbakara](https://linkedin.com/in/goodnessmbakara)
 
 ## License
 
