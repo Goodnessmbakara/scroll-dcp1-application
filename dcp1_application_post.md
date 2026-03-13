@@ -14,7 +14,8 @@
 
 **Portfolio:**
 - Website: [goodnessmbakara.vercel.app](https://goodnessmbakara.vercel.app)
-- GitHub: [Your GitHub Profile]
+- GitHub: [github.com/Goodnessmbakara](https://github.com/Goodnessmbakara)
+- LinkedIn: [linkedin.com/in/goodnessmbakara](https://linkedin.com/in/goodnessmbakara)
 - Notable Projects: Bucx, VoxCard, Kiipa, AliveHome
 
 ---
@@ -182,7 +183,7 @@ The sample demonstrates:
 ✅ Strategic thinking and actionable recommendations
 ✅ Professional research writing and structure
 
-**[Link to research sample: nigeria_scroll_research_sample.md]**
+**[Nigeria Scroll Research Sample](https://github.com/Goodnessmbakara/scroll-dcp1-application/blob/main/nigeria_scroll_research_sample.md)**
 
 ---
 
@@ -282,15 +283,16 @@ Thank you for considering my application. I'm excited about the possibility of c
 ---
 
 **Contact Information:**
-- Email: [Your email]
-- Twitter/X: [Your handle]
-- Discord: [Your Discord handle]
-- Telegram: [Your Telegram handle]
+- Email: goodnessmbakara@gmail.com
+- Twitter/X: [@goodnesmbakara](https://twitter.com/goodnesmbakara)
+- Telegram: @goodnessonweb3
+- LinkedIn: [linkedin.com/in/goodnessmbakara](https://linkedin.com/in/goodnessmbakara)
 
 **Supporting Materials:**
-- Portfolio: goodnessmbakara.vercel.app
-- Research Sample: nigeria_scroll_research_sample.md
-- GitHub: [Link to relevant projects]
+- Portfolio: [goodnessmbakara.vercel.app](https://goodnessmbakara.vercel.app)
+- Research Sample: [Nigeria Scroll Research Sample](https://github.com/Goodnessmbakara/scroll-dcp1-application/blob/main/nigeria_scroll_research_sample.md)
+- GitHub: [github.com/Goodnessmbakara](https://github.com/Goodnessmbakara)
+- Application Repository: [scroll-dcp1-application](https://github.com/Goodnessmbakara/scroll-dcp1-application)
 
 ---
 
